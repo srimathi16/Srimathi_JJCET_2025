@@ -42,7 +42,4 @@ elif n % 2 == 0 and n > 20:
 
 
 
-print(a // b)
-
-print(a / b)
 
