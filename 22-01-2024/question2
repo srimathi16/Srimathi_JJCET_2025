@@ -1,0 +1,6 @@
+#Given an integer N, write a program to count the number of digits in N.Input Format Example 1: Input0: N = 12345 Example 2: Input1: N = 8394
+
+#code
+N=int(input())
+string=str(N)
+print(int(len(string)))
